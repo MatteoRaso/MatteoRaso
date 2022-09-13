@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#One of the Github profiles of all time
+# One of the Github profiles of all time
 
 Whether you're a fan or a hater, there's no denying that this is one of the Github profiles of all time. Far and wide, people around the world have seen my Github profile and walked away thinking the same thing: "If you looked at all the Github profiles out there, you would have also looked at Matteo's Github profile." 
 
